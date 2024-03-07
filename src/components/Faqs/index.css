@@ -1,0 +1,28 @@
+.app-container {
+  background-color: #d7dae6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  padding: 70px;
+}
+
+.faq-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  padding-left: 0px;
+  margin-left: 0px;
+  background-color: white;
+  border-style: none;
+  border-radius: 12px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.05);
+}
+
+.heading {
+  color: #cb8805;
+  font-size: 40px;
+}

@@ -1,0 +1,35 @@
+.question {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.responsive {
+  display: flex;
+  flex-direction: column;
+  border-color: #d7dae6;
+  border-width: 2px;
+  border-radius: 8px;
+  border-style: solid;
+  padding: 5px;
+  margin-top: 10px;
+  width: 90%;
+}
+
+.ques-font {
+  font-size: 20px;
+  width: 90%;
+}
+
+.showOrHide {
+  background-color: transparent;
+  border: none;
+  width: 10%;
+}
+
+hr {
+  border-width: 1px;
+  width: 100%;
+  color: #d7dae6;
+}
